@@ -4,9 +4,9 @@
 This repo aims to provide a quick refrence to build appscripts for specific tasks to allow quick automation of said tasks.
 
 # Tasks List
- - [Fill google forms using google sheets](Fill-google-forms-using-google-sheets)
-     - [Skelton Code](Skelton-Code) 
- - [Notes](Notes)
+ - [Fill google forms using google sheets](#fill-google-forms-using-google-sheets)
+     - [Skelton Code](#skelton-code) 
+ - [Notes](#notes)
 
 # Fill google forms using google sheets
 This Task consist of creating a Google Form from elements present in a seperate Google Sheet. For example making a form where users answers question related to a text, where said text is pulled
