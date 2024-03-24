@@ -48,6 +48,7 @@ form.setDescription('FORM_DESCRIPTION')
 `FORM_DESCRIPTION`: The description which may be used to explain the expected task from the users.  
 `var form`: The variable which is used to add questions/elements to the created form.  
 `var row`: A row which contains all the values in that row, ordered the same way in the sheet, for example the sheet is ordered as ('file_name', 'question_1', 'question_2') then row will contain the values in the same order ('1223.txt', 'do you like cats?', 'do you eat meat?').  
+`var data`: Contains all the values in the sheet. (Almost like a DataFrame).  
 
 For the complete list of all questions types and elements for Form class please visit the following [page](https://developers.google.com/apps-script/reference/forms/form)   
 
